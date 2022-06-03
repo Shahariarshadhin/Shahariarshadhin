@@ -1,4 +1,5 @@
 ![](https://wallpaper.dog/large/20518274.jpg)
+
 ### Hi there 👋, I'm Shahariar Shadhin
 
 
@@ -14,14 +15,16 @@ Skills: REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shahariarshadhin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariarshadhin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariarshadhin&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true)   -->
+![Shadhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true&theme=aura)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahariarshadhin)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Shahariarshadhin)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin)   -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  
