@@ -1,16 +1,27 @@
-### Hi there 👋
+![](https://wallpaper.dog/large/20518274.jpg)
+### Hi there 👋, I'm Shahariar Shadhin
 
-<!--
-**Shahariarshadhin/Shahariarshadhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Javascript and React Js 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: shadhin19shahriar@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shahariarshadhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shadhin.shahriar.72)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shahariarshadhin)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariarshadhin)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahariarshadhin)  
+
+![GitHub metrics](https://metrics.lecoq.io/Shahariarshadhin)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin)  
+
+![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  
