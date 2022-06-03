@@ -20,7 +20,7 @@ Skills: REACT / JS / HTML / CSS
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true)   -->
 ![Shadhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true&theme=aura)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahariarshadhin)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahariarshadhin&theme=react-dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Shahariarshadhin)  
 
