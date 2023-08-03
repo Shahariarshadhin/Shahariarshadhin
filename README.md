@@ -3,7 +3,7 @@
 
 
 
-### Hi there 👋, I'm Shahariar Shadhin
+## Hi there 👋, I'm Shahariar Shadhin
 
 
 - 🔭 I’m currently working on Javascript and React Js 
