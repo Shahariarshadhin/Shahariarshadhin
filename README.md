@@ -41,6 +41,6 @@
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin)   -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin&theme=highcontrast)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  
+<!-- ![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shahariarshadhin)](https://github.com/ryo-ma/github-profile-trophy)
