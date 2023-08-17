@@ -2,7 +2,6 @@
 
 
 
-
 ## Hi there 👋, I'm Shahariar Shadhin
 
 
