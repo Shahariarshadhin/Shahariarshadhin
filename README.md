@@ -28,18 +28,18 @@
 
 <img align="right" width="40%" src='https://user-images.githubusercontent.com/79417172/171816465-47f45fe3-a7eb-46a8-ab12-f7eefc86f8f5.gif' />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariarshadhin&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahariarshadhin&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![Shadhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true&theme=aura)
+<!-- ![Shadhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahariarshadhin&show_icons=true&theme=aura) -->
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahariarshadhin&theme=react-dark)  -->
 
-![GitHub metrics](https://metrics.lecoq.io/Shahariarshadhin)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Shahariarshadhin)  --> 
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin)   -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin&theme=highcontrast)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahariarshadhin&theme=highcontrast)](https://git.io/streak-stats) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  -->
+ <!-- ![Profile views](https://gpvc.arturio.dev/Shahariarshadhin)  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shahariarshadhin)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Shahariarshadhin)](https://github.com/ryo-ma/github-profile-trophy) -->
