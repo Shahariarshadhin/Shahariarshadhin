@@ -5,7 +5,7 @@
 ## Hi there 👋, I'm Shahariar Shadhin
 
 
-- 🔭 I’m currently working on Javascript and React Js 
+- 🔭 I’m currently working on Next js and React Js 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: shadhin19shahriar@gmail.com 
 
