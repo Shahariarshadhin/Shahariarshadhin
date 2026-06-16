@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRnamtlrWZpaWU.jpg" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=200&section=header&text=Shahariar%20Shadhin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descColor=58A6FF" width="100%" alt="banner"/>
 
 # Hi there 👋, I'm Shahariar Shadhin
 
@@ -24,6 +24,7 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,14 +64,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=Shahariarshadhin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahariarshadhin&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
